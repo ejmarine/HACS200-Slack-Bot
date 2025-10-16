@@ -25,7 +25,7 @@ Once in the app, visit: OAuth and Permissions (See below).
 
 Go to Scopes, Add an OAuth Scope, and add 'chat:write'
 
-<img src="src/Oauth2.png" alt="Oauth" width="300"/>
+<img src="src/OAuth2.png" alt="Oauth" width="300"/>
 
 Scroll up and click 'Install to ACES Fall 2024 LLP Cohort'
 
