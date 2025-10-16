@@ -57,4 +57,4 @@ Add 'url.env' to your .gitignore (important)
 
 Now, you can run the script! Usage:
 
-` ./slack.sh [CHANNEL-ID] [MESSAGE]`
+`./slack.sh [CHANNEL-ID] [MESSAGE]`
